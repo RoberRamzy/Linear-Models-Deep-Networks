@@ -87,10 +87,3 @@ If you prefer weighted means or variance weighted by batch size, or per-epoch st
 - `classifier.ipynb` — main notebook with data loading, training loops, plotting, analyses.
 - `data/MNIST/raw/` — raw MNIST files (if you prefer to supply dataset manually).
 
----
-
-## License & contact
-
-This repository is provided as-is for educational use. If you want a license applied, tell me which one and I can add a `LICENSE` file.
-
-If you want any changes (different plotting styles, per-run error estimates, or to export images automatically), tell me what you prefer and I will update the notebook accordingly.
